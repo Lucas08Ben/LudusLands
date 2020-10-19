@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 451a88d67ee131e4586ff21f66498987
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedTarget: {fileID: 1452108463625082929, guid: 8841a8d73bcfb2740982dc3a2af9d6b4, type: 3}
+  - target: {fileID: 8779062910956252375, guid: f31d5ecbca189d84ea126504aa4c98eb, type: 3}
+  - sphereOfHiddeness: {fileID: 1043270773951623439, guid: 0f01598b914a29e4c8730176d00eab16, type: 3}
+  - animacao: {instanceID: 0}
+  - explodir: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
